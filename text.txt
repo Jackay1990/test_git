@@ -1,3 +1,4 @@
 Git is a version control 突突突是是是.
 Git is free software.
 哈哈哈 第3行
+嘻嘻嘻 第4行
